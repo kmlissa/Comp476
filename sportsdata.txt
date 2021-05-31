@@ -1,0 +1,6 @@
+5
+Soccer, 50
+Tennis, 15
+Golf, 15
+Volleyball, 25
+Fencing, 12
